@@ -121,6 +121,7 @@ const resolvers = {
         updateStudent: updateStudent,
         deleteStudent: deleteStudent
     }
+    
 };
 
 const server = new ApolloServer({
